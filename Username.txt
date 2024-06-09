@@ -1,9 +1,9 @@
-Технолог?ї, з якими хот?в би працювати: 
+Technologies that we work with:
 - Python 
 - Pygame 
 - Git 
 - GitHub 
 - Visual Studio Code 
  
-К?льк?сть годин на день: 2 години 
-Частина доби: Веч?р (14:00 - 16:00) 
+Number of hours per day: 2 hours 
+тАФ┬а├б├в┬и┬н┬а ┬д┬о┬б┬и: тАЪ┬е├з?├а (14:00 - 16:00) 
